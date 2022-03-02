@@ -1,0 +1,124 @@
+
+body{
+    margin: 0 auto;
+
+    
+
+}
+.first{
+   background-image: url(https://images.pexels.com/photos/128428/pexels-photo-128428.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+    width: cover;
+  
+    
+}
+.box{
+    box-sizing: border-box;
+    border: 1px solid white;
+    width: 450px;
+    border-radius: 10px;
+    padding: 30px 10px 10px 10px;
+    background-color:white;
+    margin: 20px;
+    box-shadow: 2px 3px 5px rgba(0,0,0,0.24);
+}
+.box > h2{
+    color: teal;
+}
+.box > p{
+    color: turquoise;
+    padding-top: 2%;
+}
+.usa{
+    margin-left: 5%;
+}
+.usa > h2{
+    color: teal !important;
+}
+.usa > p{
+    color: turquoise;
+}
+button{
+    color: white !important;
+}
+.btn{
+    background-color: midnightblue !important;
+    margin-left: 5%;
+}
+.fas{
+    
+    font-size: 30px;
+    color: lightsalmon;
+    
+}
+.move{
+    background-color: rgb(228, 182, 255);
+    background-size: cover;
+   height: 200px;
+  padding: 3%;
+
+
+}
+footer{
+    background-color: darkslateblue;
+    color: floralwhite;
+    height: 0;
+  
+}
+
+.request{
+    background-image: url(https://media.istockphoto.com/photos/happy-handsome-man-with-crossed-arms-looking-at-camera-isolated-on-picture-id1160729806?k=20&m=1160729806&s=612x612&w=0&h=8D2BXoY7-dAIj8Q19Du1z8_71T8HshBeKLpEZezOLvI=);
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 650px;
+   padding-top: 5%;
+  
+    
+}
+.boxx{
+    box-sizing: border-box;
+    background-color: gainsboro;
+    color: rgb(0, 0, 0);
+    width: 600px;
+    height: 500px;
+    padding: 20px 5px 5px 20px;
+    margin: 5px;
+}
+.form-group{
+    width: 200px;
+    height: 20px;
+}
+
+textarea{
+    width: 300px;
+    height:100px ;
+}
+.last{
+    background-color: navy;
+    text-align: center;
+   padding: 10px 10px 10px 10px;
+   height: 50px;
+   margin-bottom: 0;
+}
+
+.flexform{
+    display: flex;
+   padding: 5%;
+  width: 400px;
+  margin-right: 5%;
+
+}
+
+.boxx{
+    width: 100%;
+}
+@media(max-width: 952px) {
+
+  
+}
+@media(max-width: 858px){
+
+}
+
